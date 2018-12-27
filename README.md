@@ -1,2 +1,2 @@
 # kaggle-elo
-Kaggle Elo Competition
+Kaggle's Elo Competition
