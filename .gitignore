@@ -4,6 +4,8 @@ data/large/*
 # Make sure git creates large directory 
 !data/large/.gitkeep
 
+# Annoying Mac Meta Files
+.DS_Store
 
 # History files
 .Rhistory
