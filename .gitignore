@@ -1,3 +1,10 @@
+# Ignore large data sets
+data/large/*
+
+# Make sure git creates large directory 
+!data/large/.gitkeep
+
+
 # History files
 .Rhistory
 .Rapp.history
